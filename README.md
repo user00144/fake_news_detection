@@ -25,6 +25,13 @@ ___
 
 ## Project Motivation
 
+---
+
 ## Implementation
 
+---
+
 ## Outputs
+
+- Publication : S Kang , N Kim* , “Using activation function and ko-BERT Research of Click-bait Detection” , Korean Society For Internet Information Spring Conference , Apr. 2024
+- 
