@@ -3,6 +3,7 @@
 ___
 
 <div align="center">
+  <img width="450" alt="스크린샷 2024-06-09 오후 4 23 02" src="https://github.com/user00144/fake_news_detection/assets/120700820/898b95df-252e-4338-9776-83abbffa1048">
 </div>
 
 
